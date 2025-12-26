@@ -2,7 +2,8 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "SQLDatabase",
-    "displayName": "banking_db"
+    "displayName": "banking_db",
+    "description": "Banking application database containing user accounts, transactions, and embeddings"
   },
   "config": {
     "version": "2.0",
